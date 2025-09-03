@@ -2,7 +2,7 @@
 CXX = g++
 
 # Compiler flags
-CXXFLAGS = -Wall -Wextra -std=c++17 
+CXXFLAGS = -std=c++17 
 
 # Target executable name
 TARGET = gilmore
